@@ -2,9 +2,8 @@
 
 
 
-- 🌱 no momento estou aprendendo ser um programador full stack.
-- 🤔 estou em busca de uma empresa desenvolvedora, onde eu possa desenvolver minhas mais minhas habilidade.
-- 📫 How to reach me: https://www.linkedin.com/in/andersonrodrigues-dev/
+- 🌱 Estou aprendendo ser um programador.
+- 🤔 Estou em busca de uma empresa, onde eu possa me desenvolver como programador.
 
 <div align="center">
   <a href="https://github.com/AndersonGRodrigues">
